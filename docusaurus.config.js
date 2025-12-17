@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/spec-driven-dev/hackathon-book/edit/master/book/',
+            'https://github.com/spec-driven-dev/book/edit/main/docusaurus/',
         },
         blog: false, // Disable blog if not needed
         theme: {
